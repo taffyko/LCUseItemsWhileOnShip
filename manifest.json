@@ -1,0 +1,9 @@
+{
+	"name": "UseItemsWhileOnShip",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/taffyko/LCUseItemsWhileOnShip",
+	"description": "Freely hold and use items while the ship is still in orbit / before it has landed on a moon / before the game has started",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
